@@ -19,7 +19,10 @@ Juego de puzzles que consiste en unir piezas de carretera para que un coche pued
 ▫️ **Pruebas**: Test unitarios con Junit 5.
 ▫️ **Gestion de dependencias y automatización de tareas** con Gradle.Las dependencias de la aplicación Java se encuentran en el fichero build.gradle sección dependencies. Se añaden tareas en el fichero build.gradle  como  la generación del fichero jar que empaqueta la aplicación, entre otras.
 
-### Tech Stack
+## UML
+![UML diagrama](https://github.com/estelacode/trip_puzzle_game/blob/main/media/UML.png)
+
+## Tech Stack
 * Java
 * Programación Orientada a Objetos
 * Arquitectura MVC 
@@ -27,17 +30,17 @@ Juego de puzzles que consiste en unir piezas de carretera para que un coche pued
 * Gradle
 
 
-### ⚙️ Pre-requisitos
+## ⚙️ Pre-requisitos
 * Instalar JDK15
 * Instalar de IntelliJ IDEA
 * Nota: No es necesario instalar Gradle. Ya existe el fichero build.gradle
 
 
-### 🚀 Usage 
+## 🚀 Usage 
 
 ![Generar el .jar  para lanzar la aplicación](https://github.com/estelacode/trip_puzzle_game/blob/main/media/gradle_task_jar.png)
 
 ![ Arrancar la aplicación](https://github.com/estelacode/trip_puzzle_game/blob/main/media/run_jar_idea.png)
 
-### 👋 Author
+## 👋 Author
 Estela Madariaga
