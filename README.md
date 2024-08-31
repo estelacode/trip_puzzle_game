@@ -1,4 +1,7 @@
-# Trip puzzle game
+# 🧩🕹️ Trip puzzle game
+
+![Demo - Trip puzzle game](https://github.com/estelacode/trip_puzzle_game/blob/main/media/Trip_Puzzle_Game.gif)
+
 
 ## Introducción
 Juego de puzzles que consiste en unir piezas de carretera para que un coche pueda ir de un extremo de la vía al otro. El juego esta implementado en Java, siguiendo el paradigma de programación orientado a objetos y una metodología de desarrollo waterfall. Juego inspirado en Road Trip FRVR. https://roadtrip.frvr.com/
@@ -24,14 +27,17 @@ Juego de puzzles que consiste en unir piezas de carretera para que un coche pued
 * Gradle
 
 
-### Pre-requisitos ⚙️
+### ⚙️ Pre-requisitos
 * Instalar JDK15
 * Instalar de IntelliJ IDEA
 * Nota: No es necesario instalar Gradle. Ya existe el fichero build.gradle
 
 
-### Usage 
+### 🚀 Usage 
 
 ![Generar el .jar  para lanzar la aplicación](https://github.com/estelacode/trip_puzzle_game/blob/main/media/gradle_task_jar.png)
 
 ![ Arrancar la aplicación](https://github.com/estelacode/trip_puzzle_game/blob/main/media/run_jar_idea.png)
+
+### 👋 Author
+Estela Madariaga
