@@ -1,5 +1,8 @@
 # Trip puzzle game
 
+![Demo - Trip puzzle game](https://github.com/estelacode/trip_puzzle_game/blob/main/media/Trip_Puzzle_Game.gif)
+
+
 ## Introducción
 Juego de puzzles que consiste en unir piezas de carretera para que un coche pueda ir de un extremo de la vía al otro. El juego esta implementado en Java, siguiendo el paradigma de programación orientado a objetos y una metodología de desarrollo waterfall. Juego inspirado en Road Trip FRVR. https://roadtrip.frvr.com/
 
