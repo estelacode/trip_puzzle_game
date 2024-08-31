@@ -20,7 +20,7 @@ import java.util.Objects;
  * <br/>
  * This class is called from the view classes in order to access/modify the model data.
  *
- *  @author David García-Solórzano
+ *  @author Estela Madariaga
  *  @version 1.0
  */
 public class Game {

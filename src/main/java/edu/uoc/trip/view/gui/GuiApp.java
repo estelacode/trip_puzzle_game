@@ -33,8 +33,8 @@ public class GuiApp extends Application {
     public void start(Stage primaryStage) throws IOException {
         main = this;
         stage = primaryStage;
-        stage.setTitle("UOCTrip");
-        stage.setResizable(false);
+        stage.setTitle("Trip Puzzle Game");
+        stage.setResizable(true);
         createView("Welcome");
     }
 
