@@ -1,4 +1,4 @@
-# Trip puzzle game
+# 🧩🕹️ Trip puzzle game
 
 ![Demo - Trip puzzle game](https://github.com/estelacode/trip_puzzle_game/blob/main/media/Trip_Puzzle_Game.gif)
 
@@ -27,14 +27,17 @@ Juego de puzzles que consiste en unir piezas de carretera para que un coche pued
 * Gradle
 
 
-### Pre-requisitos ⚙️
+### ⚙️ Pre-requisitos
 * Instalar JDK15
 * Instalar de IntelliJ IDEA
 * Nota: No es necesario instalar Gradle. Ya existe el fichero build.gradle
 
 
-### Usage 
+### 🚀 Usage 
 
 ![Generar el .jar  para lanzar la aplicación](https://github.com/estelacode/trip_puzzle_game/blob/main/media/gradle_task_jar.png)
 
 ![ Arrancar la aplicación](https://github.com/estelacode/trip_puzzle_game/blob/main/media/run_jar_idea.png)
+
+### 👋 Author
+Estela Madariaga
